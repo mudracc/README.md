@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/Xb7SxatubDQ1dSgXyD/giphy.gif" alt="Avatar">
 </p>
 <p align="center">
-    @witness#0666
+    @murda#0666
 <p align="center">
 In Murda We Trust
 <p align="center">
